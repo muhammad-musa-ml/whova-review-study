@@ -1,0 +1,20 @@
+{
+  "source": "https://itunes.apple.com/us/rss/customerreviews/page=<1-10>/id=716979741/sortby=mostrecent/json",
+  "fetched_at_utc": "2026-10-29T03:11:42+00:00",
+  "reviews": 500,
+  "reviews_rated_1_to_3": 38,
+  "first_review": "2025-09-16T09:51:40-07:00",
+  "last_review": "2026-10-27T09:57:22-07:00",
+  "page_sha256": {
+    "page1": "90d60bd5c2f2dccaf80f7b7158dd6f11181b64af33676830de8cd00670f479ba",
+    "page2": "f39707a0f2b55c376cdb46530b24ed46f56013e5dd2202c5d5f3d6b681ab2da3",
+    "page3": "491cb744ca2b7aa7cfaebb8c61ab233cb0075bf8baaf71e762a6d6242d8c9b71",
+    "page4": "0f1e48272f44500f8fa3d1565a5ec8c0e59fa3fc8cdd467c69563751d3d4db43",
+    "page5": "ab9fe47457b9795f3e8c339b56636aaeb71cab36f91b1e3c18f084376b47493b",
+    "page6": "7be66711afe80c53c0b62531e6e8aba2e7b83c4788578c51d6d0c0a3ec2ac200",
+    "page7": "2cc9b71cbbf1b4b039203521ea0c80a5215e32f2458625d3e0f405ed0493d874",
+    "page8": "b978ec90e74c9e854f2fed55ff42c03ed799a2d439668de30fe98eccd71be111",
+    "page9": "53a1327f5f4e100637275a2bef9a1ff5e04289ff0d1efda5940df22a19ad9310",
+    "page10": "50a1fae3c83e9bc7ad42d7b1c311dec1607a97a0ab135eb48ab137523c98d3cc"
+  }
+}

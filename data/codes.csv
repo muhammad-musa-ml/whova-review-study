@@ -1,0 +1,39 @@
+review_id,rating,themes,notification_source,summary
+14694420189,3,navigation;agenda,,the conference schedule is one option on the bottom row instead of a main tab
+14683880801,1,notifications,unspecified,too many notifications and repeated email reminders; alerts at 5 AM and on weekends
+14666372771,3,platforms,,asks for a macOS version even if it is only the iPad app
+14654038944,3,other,,autocorrect does not work in the message input box
+14593063737,3,navigation;other,,not intuitive; the app treats Newark NJ and Newark OH as the same town
+14565996632,3,navigation,,the app is overwhelming
+14529072612,3,other,,the floor map does not say which floor a spot is on
+14495885685,1,access,,could not join a ticketed event without an invitation code or relink the registration to another email; repeated 2FA codes
+14494405439,2,notifications;agenda,unspecified,bombarded by networking and social messages; cannot check off individual talks on the agenda
+14372851088,2,notifications,whova,marketing messages from the app provider during a conference
+14356814921,1,connectivity,,does not work with a VPN
+14342606928,3,navigation;notifications,unspecified,confusing organization; excessive notifications that are not relevant
+14319822660,1,notifications,unspecified,constant popups
+14291095269,1,platforms,,the desktop web app is blocked on an iPad so session playback is hard to reach
+14202057986,2,connectivity,,virtual meet-ups failed for many attendees during a mostly virtual event
+14201299921,1,accessibility,,asks for dynamic text size and dark mode
+14154685393,1,notifications,unspecified,countless pointless notifications; the app keeps demanding engagement
+14143710818,1,privacy,,asks why the app needs full calendar access
+14140476291,1,connectivity,,presentations do not load and added sessions disappeared
+14137068447,1,connectivity,,will not connect after an update
+14017552851,3,other,,asked to update the app every time the agenda opens
+14009677557,2,connectivity,,does not work behind a VPN on conference wifi
+14005651063,1,platforms,,the web version pushes you to download the app
+13964826183,1,notifications,whova,too much promotion of the app itself; wants a toggle to turn it off
+13941990880,1,notifications,whova,most messages come from Whova and its staff and cannot be turned off; badges cannot be turned off
+13867993155,1,agenda,,cannot filter past sessions or by time; no custom list; only one RSVP per time slot
+13841104117,1,access,,could not find the event
+13785862357,1,privacy,,an account was prefilled from LinkedIn under a different email than the one used to sign up
+13656457499,1,none,,text praises the app
+13559215986,2,navigation,,asks for an app that is easier for attendees over 50
+13495775763,1,none,,no reason given
+13398688378,3,notifications,whova,wants the conference notifications but no notifications about how to use the app
+13394824266,3,notifications,whova,could not turn off notifications from Whova as opposed to the conference
+13372667295,2,notifications;agenda;navigation,whova,notifications on how to use the app cannot be turned off; filters reset; too many screens to read a session description
+13357847473,1,access;notifications,unspecified,search makes it hard to find your event; low-value notifications
+13337061980,1,notifications,whova,emails and phone calls promoting the app after adding a conference
+13325271062,1,navigation,,too confusing
+13303507999,2,notifications;agenda,unspecified,messages from the event's vendors before it began; hard to find the agenda and session times and rooms
